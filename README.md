@@ -1,6 +1,6 @@
 # BrainStation-4D-Hackathon-with-Shutterstock
 
-This script is used with shutterstocks API to output an image gallery that is specific for a combination of key words.
+This script is used to output an image gallery from Shutterstock that is specific for a combination of key words.
 
 1) Get the images associated with a combination of kewords. 
 2) Rank of the most frequently occuring images is established. 
